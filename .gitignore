@@ -1,0 +1,23 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+
+# Storage (event photos)
+storage/*
+!storage/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+.venv/
+
+# DeepFace model cache
+~/.deepface/

@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+psycopg2-binary
+deepface
+tf-keras
+numpy
+python-multipart
+python-dotenv
+pytest
+httpx
+pgvector
